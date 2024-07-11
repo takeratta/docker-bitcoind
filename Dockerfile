@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20201014
 MAINTAINER Kyle Manna <kyle@kylemanna.com>
 
 ARG USER_ID
